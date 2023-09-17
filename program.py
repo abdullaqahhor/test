@@ -1,0 +1,1 @@
+print("Githubga joylangan birinchi fayl")
